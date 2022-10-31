@@ -1,0 +1,50 @@
+{
+  "skills": [
+    {
+      "name": "HTML",
+      "icon": "fa-brands fa-html5"
+    },
+    {
+      "name": "CSS3",
+      "icon": "fa-brands fa-css3-alt"
+    },
+    {
+      "name": "Javascript",
+      "icon": "fa-brands fa-square-js"
+    },
+    {
+      "name": "React",
+      "icon": "fa-brands fa-react"
+    },
+    {
+      "name": "PHP",
+      "icon": "fa-brands fa-php"
+    },
+    {
+      "name": "SQL Databases",
+      "icon": "fa-solid fa-database"
+    },
+    {
+      "name": "Amazon Web Services",
+      "icon": "fa-brands fa-aws"
+    }
+  ],
+
+  "projects": [
+    {
+      "name": "Github Finder",
+      "github": "https://github.com/lazy-snorlax/github-finder",
+      "liveUrl": "https://gilded-profiterole-a14ec9.netlify.app/"
+    },
+    {
+      "name": "Github Finder",
+      "github": "repoLink",
+      "liveUrl": ""
+    },
+    {
+      "name": "Github Finder",
+      "github": "repoLink",
+      "liveUrl": ""
+    }
+  ]
+}
