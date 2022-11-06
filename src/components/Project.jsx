@@ -11,13 +11,13 @@ function Project({ project: { name, github, liveUrl, languages } }) {
           </h2>
           <div className="card-actions justify-center">
             {github && (
-              <a href={github} className="btn btn-ghost">
+              <a href={github} className="btn btn-primary">
                 Github
               </a>
             )}
 
             {liveUrl && (
-              <a href={liveUrl} className="btn btn-ghost">
+              <a href={liveUrl} className="btn btn-primary">
                 Application Link
               </a>
             )}
