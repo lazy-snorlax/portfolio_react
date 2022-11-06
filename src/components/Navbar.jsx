@@ -14,12 +14,12 @@ function Navbar() {
         </div>
         <div className="flex-1 px-2 mx-2">
           <div className="flex justify-end">
-            <Link to="#projects" className="btn btn-ghost btn-md rounded-btn">
+            <a href="#projects" className="btn btn-ghost btn-md rounded-btn">
               Projects
-            </Link>
-            <Link to="#skills" className="btn btn-ghost btn-md rounded-btn">
+            </a>
+            <a href="#skills" className="btn btn-ghost btn-md rounded-btn">
               Skills
-            </Link>
+            </a>
           </div>
         </div>
       </div>

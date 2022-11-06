@@ -2,7 +2,7 @@ import { PropTypes } from "prop-types";
 
 function Skill({ skill: { name, icon } }) {
   return (
-    <div className="card shadow-md side bg-base-100">
+    <div className="card shadow-md side bg-neutral">
       <div className="flex-row items-center card-body">
         <div className="">
           <i className={icon !== "" ? icon + " text-7xl text-center" : ""}></i>

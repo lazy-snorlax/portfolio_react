@@ -6,9 +6,9 @@ function Skills() {
 
   return (
     <>
-      <a href="#skills">
-        <h1 className="text-center text-3xl">Skills</h1>
-      </a>
+      <div id="skills" className="text-center">
+        <h1 className="mb-5 text-5xl font-bold">SKILLS</h1>
+      </div>
 
       <div className="grid grid-cols-1 gap-8 xl:grid-cols-4 lg:grid-cols-3 md:grid-cols-2 ">
         {data.map((skill) => (

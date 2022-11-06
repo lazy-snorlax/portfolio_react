@@ -12,7 +12,7 @@ function Footer() {
             <a
               href="https://www.linkedin.com/in/anthony-morelli-246a69178/"
               target="_blank"
-              referrerpolicy="no-referrer"
+              referrerPolicy="no-referrer"
               className="text-3xl px-4"
             >
               <i className="fa-brands fa-linkedin"></i>
@@ -20,7 +20,7 @@ function Footer() {
             <a
               href="https://github.com/lazy-snorlax"
               target="_blank"
-              referrerpolicy="no-referrer"
+              referrerPolicy="no-referrer"
               className="text-3xl"
             >
               <i className="fa-brands fa-github"></i>

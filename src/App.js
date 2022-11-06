@@ -1,6 +1,8 @@
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 
 import Navbar from "./components/Navbar";
+import Header from "./components/Header";
+import About from "./components/About";
 import Projects from "./components/Projects";
 import Skills from "./components/Skills";
 import Footer from "./components/Footer";
@@ -19,12 +21,19 @@ function App() {
 
           <main className="pb-12">
             <div className="mb-10 pb-3">
-              <div className="container mx-auto">
+              <Header />
+              {/* <div className="container mx-auto"></div> */}
+            </div>
+            <div className="mb-10 pb-3">
+              <About />
+            </div>
+            <div className="mb-10 pb-3">
+              <div className="container mx-auto text-primary-content">
                 <Skills />
               </div>
             </div>
             <div className="mb-10 pb-3">
-              <div className="container mx-auto">
+              <div className="container mx-auto text-primary-content">
                 <Projects />
               </div>
             </div>
