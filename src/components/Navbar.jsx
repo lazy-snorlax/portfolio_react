@@ -1,9 +1,6 @@
-import { useNavigate, useLocation, Link } from "react-router-dom";
+import { Link } from "react-router-dom";
 
 function Navbar() {
-  const location = useLocation();
-  const navigate = useNavigate();
-
   return (
     <nav className="navbar mb-12 shadow-lg bg-neutral text-neutral-content">
       <div className="container mx-auto">
