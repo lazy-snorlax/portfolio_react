@@ -11,11 +11,14 @@ function Navbar() {
         </div>
         <div className="flex-1 px-2 mx-2">
           <div className="flex justify-end">
-            <a href="#projects" className="btn btn-ghost btn-md rounded-btn">
-              Projects
+            <a href="#aboutme" className="btn btn-ghost btn-md rounded-btn">
+              About
             </a>
             <a href="#skills" className="btn btn-ghost btn-md rounded-btn">
               Skills
+            </a>
+            <a href="#projects" className="btn btn-ghost btn-md rounded-btn">
+              Projects
             </a>
           </div>
         </div>
