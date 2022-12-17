@@ -44,6 +44,12 @@
       "liveUrl": "https://naughty-fermi-9d71d1.netlify.app/"
     },
     {
+      "name": "InvoiceManager",
+      "languages": ["PHP"],
+      "github": "https://github.com/lazy-snorlax/InvoiceManager",
+      "liveUrl": ""
+    },
+    {
       "name": "Inventory",
       "languages": ["PHP"],
       "github": "https://github.com/lazy-snorlax/inventory",
