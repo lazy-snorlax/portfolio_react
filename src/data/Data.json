@@ -17,12 +17,24 @@
       "icon": "fa-brands fa-react"
     },
     {
+      "name": "Vue",
+      "icon": "fa-brands fa-vuejs"
+    },
+    {
       "name": "PHP",
       "icon": "fa-brands fa-php"
     },
     {
+      "name": "Laravel",
+      "icon": "fa-brands fa-laravel"
+    },
+    {
       "name": "SQL Databases",
       "icon": "fa-solid fa-database"
+    },
+    {
+      "name": "Docker",
+      "icon": "fa-brands fa-docker"
     },
     {
       "name": "Amazon Web Services",
