@@ -66,6 +66,12 @@
       "languages": ["PHP"],
       "github": "https://github.com/lazy-snorlax/inventory",
       "liveUrl": ""
+    },
+    {
+      "name": "Laravel API/Vue 3 Skeleton",
+      "languages": ["Laravel"],
+      "github": "https://github.com/lazy-snorlax/SkeletonBase",
+      "liveUrl": ""
     }
   ]
 }
