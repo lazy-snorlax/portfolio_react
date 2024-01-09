@@ -69,7 +69,7 @@
     },
     {
       "name": "Laravel API/Vue 3 Skeleton",
-      "languages": ["Laravel"],
+      "languages": ["Laravel", "Vue3", "Typescript"],
       "github": "https://github.com/lazy-snorlax/SkeletonBase",
       "liveUrl": ""
     }
