@@ -56,8 +56,14 @@
       "liveUrl": "https://naughty-fermi-9d71d1.netlify.app/"
     },
     {
+      "name": "Story Share",
+      "languages": ["Laravel", "Vue3", "Typescript", "MySQL"],
+      "github": "https://github.com/lazy-snorlax/StoryShare",
+      "liveUrl": "https://storyshare.amhomelab.com"
+    },
+    {
       "name": "InvoiceManager",
-      "languages": ["PHP"],
+      "languages": ["PHP", "React", "Javascript", "MS SQL"],
       "github": "https://github.com/lazy-snorlax/InvoiceManager",
       "liveUrl": ""
     },
@@ -66,12 +72,6 @@
       "languages": ["PHP"],
       "github": "https://github.com/lazy-snorlax/inventory",
       "liveUrl": ""
-    },
-    {
-      "name": "Story Share",
-      "languages": ["Laravel", "Vue3", "Typescript", "MySQL"],
-      "github": "https://github.com/lazy-snorlax/StoryShare",
-      "liveUrl": "https://storyshare.amhomelab.com"
     }
   ]
 }
