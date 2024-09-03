@@ -68,10 +68,10 @@
       "liveUrl": ""
     },
     {
-      "name": "Laravel API/Vue 3 Skeleton",
-      "languages": ["Laravel", "Vue3", "Typescript"],
-      "github": "https://github.com/lazy-snorlax/SkeletonBase",
-      "liveUrl": ""
+      "name": "Story Share",
+      "languages": ["Laravel", "Vue3", "Typescript", "MySQL"],
+      "github": "https://github.com/lazy-snorlax/StoryShare",
+      "liveUrl": "https://storyshare.amhomelab.com"
     }
   ]
 }
