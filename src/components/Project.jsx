@@ -7,8 +7,12 @@ function Project({ project: { name, github, liveUrl, languages } }) {
         <div className="card-body">
           <h2 className="card-title justify-center">
             {name}
-            <div className="badge badge-outline badge-accent">{languages}</div>
           </h2>
+          <div className="badges text-center">
+            {languages.map((lang) => (
+              <div className="badge badge-outline badge-accent mx-1">{lang}</div>
+            ))}
+          </div>
           <div className="card-actions justify-center">
             {github && (
               <a href={github} className="btn btn-primary">
@@ -17,7 +21,7 @@ function Project({ project: { name, github, liveUrl, languages } }) {
             )}
 
             {liveUrl && (
-              <a href={liveUrl} className="btn btn-primary">
+              <a href={liveUrl} target="_blank" className="btn btn-primary">
                 Application Link
               </a>
             )}
