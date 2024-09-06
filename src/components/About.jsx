@@ -9,7 +9,7 @@ function About() {
           <p className="mb-5">
             Some of the projects I have worked on involved building fast paced
             data entry web apps, and converting older existing desktop
-            applications to cloud based applications.
+            applications to cloud based applications using web first technologies.
           </p>
         </div>
       </div>
