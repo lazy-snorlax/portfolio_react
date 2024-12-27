@@ -5,7 +5,12 @@ function Skill({ skill: { name, icon } }) {
     <div className="card shadow-md side bg-neutral">
       <div className="flex-row items-center card-body">
         <div className="">
-          <i className={icon !== "" ? icon + " text-7xl text-center" : ""}></i>
+          {icon !== "" && icon.includes("fa") &&
+            <i className={ icon + " text-7xl text-center" }></i>
+          }
+          {icon !== "" && !icon.includes("fa") && 
+            <div className={icon + " text-7xl text-center" }></div>
+          }
         </div>
         <h2 className="card-title uppercase">{name}</h2>
       </div>
