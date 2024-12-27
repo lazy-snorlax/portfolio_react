@@ -5,7 +5,7 @@ function Header() {
     <>
       <div
         className="hero min-h-screen"
-        style={{ backgroundImage: `url("./img/bg1.jpg")` }}
+        style={{ backgroundImage: `url("img/bg1.jpg")` }}
       >
         <div className="hero-overlay bg-opacity-80"></div>
         <div className="hero-content text-center text-primary-content">
