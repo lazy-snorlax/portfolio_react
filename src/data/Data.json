@@ -5,8 +5,8 @@
       "icon": "fa-brands fa-html5"
     },
     {
-      "name": "CSS3",
-      "icon": "fa-brands fa-css3-alt"
+      "name": "Tailwind CSS",
+      "icon": "tailwind"
     },
     {
       "name": "Javascript",
@@ -29,16 +29,16 @@
       "icon": "fa-brands fa-laravel"
     },
     {
-      "name": "C Sharp",
-      "icon": ""
+      "name": "ASP.Net",
+      "icon": "csharp"
     },
     {
       "name": "MySQL",
-      "icon": "fa-regular fa-database"
+      "icon": "mysql"
     },
     {
       "name": "SQL Server",
-      "icon": "fa-solid fa-database"
+      "icon": "sqlserver"
     },
     {
       "name": "Docker",
@@ -76,15 +76,15 @@
       "liveUrl": ""
     },
     {
-      "name": "Desktop Assistant",
-      "languages": ["Python"],
-      "github": "https://github.com/lazy-snorlax/athena_desktop_assistant",
+      "name": "Stockmarket App",
+      "languages": ["C#", "React", "SQL Server"],
+      "github": "https://github.com/lazy-snorlax/stockmarket-app",
       "liveUrl": ""
     },
     {
-      "name": "Stockmarket App",
-      "languages": ["C#", "React"],
-      "github": "https://github.com/lazy-snorlax/stockmarket-app",
+      "name": "Desktop Assistant",
+      "languages": ["Python"],
+      "github": "https://github.com/lazy-snorlax/athena_desktop_assistant",
       "liveUrl": ""
     }
   ]
