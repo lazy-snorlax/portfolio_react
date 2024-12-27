@@ -6,3 +6,35 @@
   position: fixed;
   z-index: 100;
 }
+
+.csharp {
+  display: block;
+  width: 75px;
+  height: 75px;
+  background-image: url('img/C_Sharp_Logo_2023.svg');
+  background-size: contain;
+}
+
+.mysql {
+  display: block;
+  width: 75px;
+  height: 50px;
+  background-image: url('img/MySQL_logo.svg');
+  background-size: contain;
+}
+
+.sqlserver {
+  display: block;
+  width: 75px;
+  height: 75px;
+  background-image: url('img/microsoft-sql-server.svg');
+  background-size: contain;
+}
+
+.tailwind {
+  display: block;
+  width: 75px;
+  height: 45px;
+  background-image: url('img/Tailwind_CSS_Logo.svg');
+  background-size: cover;
+}
