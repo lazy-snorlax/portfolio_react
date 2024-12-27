@@ -11,7 +11,7 @@
   display: block;
   width: 75px;
   height: 75px;
-  background-image: url('assets/img/C_Sharp_Logo_2023.svg');
+  background-image: url('img/C_Sharp_Logo_2023.svg');
   background-size: contain;
 }
 
@@ -19,7 +19,7 @@
   display: block;
   width: 75px;
   height: 50px;
-  background-image: url('assets/img/MySQL_logo.svg');
+  background-image: url('img/MySQL_logo.svg');
   background-size: contain;
 }
 
@@ -27,7 +27,7 @@
   display: block;
   width: 75px;
   height: 75px;
-  background-image: url('assets/img/microsoft-sql-server.svg');
+  background-image: url('img/microsoft-sql-server.svg');
   background-size: contain;
 }
 
@@ -35,6 +35,6 @@
   display: block;
   width: 75px;
   height: 45px;
-  background-image: url('assets/img/Tailwind_CSS_Logo.svg');
+  background-image: url('img/Tailwind_CSS_Logo.svg');
   background-size: cover;
 }
