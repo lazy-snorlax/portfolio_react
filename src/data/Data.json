@@ -58,6 +58,12 @@
       "liveUrl": "https://storyshare.amhomelab.com"
     },
     {
+      "name": "Pokedex",
+      "languages": ["Vue3"],
+      "github": "https://github.com/lazy-snorlax/pokedex-vue",
+      "liveUrl": "https://pokedex-vue-app.netlify.app/"
+    },
+    {
       "name": "Github Finder",
       "languages": ["React"],
       "github": "https://github.com/lazy-snorlax/github-finder",
