@@ -1,22 +1,23 @@
 import { PropTypes } from "prop-types";
 
-function Project({ project: { name, github, liveUrl, languages } }) {
+function Project({ project: { name, description, github, liveUrl, languages } }) {
   return (
     <div className="card w-96 bg-neutral shadow-md">
       <div className="flex-row items-center">
-        <div className="card-body">
-          <h2 className="card-title justify-center">
-            {name}
-          </h2>
+        <div className="card-body py-3">
+          <div className="card-title justify-center mt-5 mb-1">
+          {name}
+          </div>
           <div className="badges text-center">
             {languages.map((lang) => (
               <div className="badge badge-outline badge-accent mx-1">{lang}</div>
             ))}
           </div>
-          <div className="card-actions justify-center">
+          <p className="text-center">{description}</p>
+          <div className="card-actions justify-center pb-3">
             {github && (
               <a href={github} className="btn btn-primary">
-                Github
+                Github Repo
               </a>
             )}
 

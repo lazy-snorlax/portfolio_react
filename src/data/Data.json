@@ -53,42 +53,42 @@
   "projects": [
     {
       "name": "Story Share",
+      "description": "An application for aspiring authors to share their works.",
       "languages": ["Laravel", "Vue3", "Typescript", "MySQL"],
       "github": "https://github.com/lazy-snorlax/StoryShare",
       "liveUrl": "https://storyshare.amhomelab.com"
     },
     {
       "name": "Pokedex",
+      "description": "A simple Pokedex app for looking up Pokemon from any generation of the games. Uses the PokeAPI for lookups.",
       "languages": ["Vue3"],
       "github": "https://github.com/lazy-snorlax/pokedex-vue",
       "liveUrl": "https://pokedex-vue-app.netlify.app/"
     },
     {
-      "name": "Github Finder",
-      "languages": ["React"],
-      "github": "https://github.com/lazy-snorlax/github-finder",
-      "liveUrl": "https://gilded-profiterole-a14ec9.netlify.app/"
-    },
-    {
       "name": "Exchange Rate Calculator",
+      "description": "An exchange rate calculator using the API from exchangerate-api.com.",
       "languages": ["Javascript"],
       "github": "https://github.com/lazy-snorlax/exchange-rate-calculator",
       "liveUrl": "https://naughty-fermi-9d71d1.netlify.app/"
     },
     {
       "name": "Invoice Manager V2",
+      "description": "A recreation of an old MS Access application to create and manage invoices for clients/customers.",
       "languages": ["Laravel", "React", "Javascript", "MS SQL"],
       "github": "https://github.com/lazy-snorlax/InvoiceManagerv2",
       "liveUrl": ""
     },
     {
       "name": "Stockmarket App",
+      "description": "An application for tracking a stockmarket portfolio.",
       "languages": ["C#", "React", "SQL Server"],
       "github": "https://github.com/lazy-snorlax/stockmarket-app",
       "liveUrl": ""
     },
     {
       "name": "Maze Solver",
+      "description": "A maze generator and solver demonstrating 2 search algorithms, Depth-First Search and A* Search.",
       "languages": ["Python"],
       "github": "https://github.com/lazy-snorlax/maze-solver",
       "liveUrl": ""
