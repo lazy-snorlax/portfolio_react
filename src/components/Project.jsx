@@ -2,7 +2,7 @@ import { PropTypes } from "prop-types";
 
 function Project({ project: { name, description, github, liveUrl, languages } }) {
   return (
-    <div className="card w-96 bg-neutral shadow-md">
+    <div className="card w-100 bg-neutral shadow-md">
       <div className="flex-row items-center">
         <div className="card-body py-3">
           <div className="card-title justify-center mt-5 mb-1">
